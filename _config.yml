@@ -1,7 +1,7 @@
 name: Wheatland Mission
 favicon: null
-layout_spectrum: 0.4417947116307914
-typography_spectrum: 0.9002899134065956
+layout_spectrum: 0.57966
+typography_spectrum: 0.91351
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.009295216528698802
-  lightness: 0.05475464789196849
-  saturation: 0.42257743957452476
-  rhythmicContrast: 0.7630324841011316
+    - '#ffffff'
+    - '#b1492e'
+    - '#d7a193'
+    - '#c57764'
+    - '#d3c3c0'
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
