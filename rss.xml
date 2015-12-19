@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wheatland Mission Church — Wichita, KS]]></title>
+        <description><![CDATA[Wheatland Mission Church — Wichita, KS]]></description>
+        <link>https://thegrid.ai/wheatland-mission/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Dec 2015 20:52:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wheatland-mission/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who we are]]></title>
+            <description><![CDATA[<article><h1>Who we are</h1><p>The Wheatland Mission is a community of people on a journey with Jesus.</p></article>]]></description>
+            <link>https://thegrid.ai/wheatland-mission/who-we-are/index.html</link>
+            <guid isPermaLink="false">885ea592-fb88-40c7-a3db-5d55e3a07899</guid>
+            <pubDate>Sat, 19 Dec 2015 20:52:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
