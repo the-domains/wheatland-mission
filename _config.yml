@@ -1,6 +1,6 @@
 name: Wheatland Mission
 favicon: null
-layout_spectrum: 0.57966
+layout_spectrum: 0.37083
 typography_spectrum: 0.91351
 title: "Wheatland Mission Church —\_Wichita, KS"
 cta:
@@ -23,7 +23,7 @@ color:
     - '#c57764'
     - '#d3c3c0'
   brandStrength: 0.5
-  lightness: 0.125
+  lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
