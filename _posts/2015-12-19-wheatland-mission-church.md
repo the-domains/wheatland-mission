@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'We are a group of people seeking to live like Jesus and participate in his work in the world. Our church meets every Saturday night at 5:30 to encourage one another in this effort and  share in worship, communion and the study of Scripture.  At Wheatland we find ourselves as part of the tradition of historic Christianity. Christian Scripture, the Holy Bible, is at the center of our worship and practice. In addition, we affirm the Apostles’ Creed as a positive expression of our faith.'
-datePublished: '2015-12-26T20:33:02.632Z'
-dateModified: '2015-12-26T20:32:58.189Z'
+description: ''
+datePublished: '2015-12-26T20:36:34.447Z'
+dateModified: '2015-12-26T20:36:23.483Z'
 title: Who We Are
 author: []
 sourcePath: _posts/2015-12-19-wheatland-mission-church.md
@@ -25,8 +25,8 @@ _type: Article
 ---
 # 
 
+We are a group of people seeking to live like Jesus and participate in his work in the world. Our church meets every Saturday night at 5:30 to encourage one another in this effort and share in worship, communion and the study of Scripture. At Wheatland we find ourselves as part of the tradition of historic Christianity. Christian Scripture, the Holy Bible, is at the center of our worship and practice. In addition, we affirm the Apostles' Creed as a positive expression of our faith.
+
 > I believe in God, the Father almighty, creator of heaven and earth.
 > I believe in Jesus Christ, God's only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended to the dead. On the third day he rose again; he ascended into heaven, he is seated at the right hand of the Father, and he will come again to judge the living and the dead.
 > I believe in the Holy Spirit, the holy catholic church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. AMEN.
-> 
->
