@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'We are a group of people seeking to live like Jesus and participate in his work in the world. Our church meets every Saturday night at 5:30 to encourage one another in this effort and  share in worship, communion and the study of Scripture.  At Wheatland we find ourselves as part of the tradition of historic Christianity. Christian Scripture, the Holy Bible, is at the center of our worship and practice. In addition, we affirm the Apostles’ Creed as a positive expression of our faith.'
-datePublished: '2015-12-19T20:59:03.451Z'
-dateModified: '2015-12-19T20:57:40.656Z'
+datePublished: '2015-12-26T20:33:02.632Z'
+dateModified: '2015-12-26T20:32:58.189Z'
 title: Who We Are
 author: []
 sourcePath: _posts/2015-12-19-wheatland-mission-church.md
